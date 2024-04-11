@@ -1,2 +1,2 @@
-Tasks aimed at algorithms grpahs and dynamic prgramming.
+Tasks aimed at algorithms graphs and dynamic prgramming.
 Each directory has an image with the problem statement and a solution in c++.
